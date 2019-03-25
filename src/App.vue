@@ -3,23 +3,24 @@
     <v-header></v-header>
     <div class="tab">
       <div class="tab-item">
-        <a>商品</a>
+        <router-link to="/goods">商品</router-link>
       </div>
       <div class="tab-item">
-        <a>评论</a>
+        <router-link to="/ratings">评论</router-link>
       </div>
       <div class="tab-item">
-        <a>商家</a>
+        <router-link to="/seller">商家</router-link>
       </div>
     </div>
-    <div class="content">
+    <router-view>I am content!</router-view>
+    <!-- <div class="content">
       I am content!
-    </div>
+    </div> -->
   </div>
 </template>
 
 <script>
-  import header from "./components/header/header.vue";
+  import header from "./components/header/header";
   
   export default {
     components: {
