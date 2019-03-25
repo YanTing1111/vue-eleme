@@ -12,7 +12,7 @@
         <router-link to="/seller">商家</router-link>
       </div>
     </div>
-    <router-view>I am content!</router-view>
+    <router-view></router-view>
     <!-- <div class="content">
       I am content!
     </div> -->
@@ -39,4 +39,10 @@
       .tab-item
         flex: 1
         text-align: center
+        a
+          display: block
+          font-size: 14px
+          color: rgb(77, 85, 93)
+          &.active
+            color: rgb(240, 20, 20)
 </style>
