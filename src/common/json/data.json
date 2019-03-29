@@ -7,11 +7,11 @@
     "serviceScore": 4.7,
     "foodScore": 4.3,
     "rankRate": 69.2,
-    "minPrice": 20,
-    "deliveryPrice": 4,
+    "minPrice": 10,
+    "deliveryPrice": 0.5,
     "ratingCount": 24,
     "sellCount": 90,
-    "bulletin": "粥品香坊其烹饪粥料",
+    "bulletin": "高峰期请提前下单，谢谢！",
     "supports": [
       {
         "type": 0,
@@ -19,22 +19,14 @@
       },
       {
         "type": 1,
-        "description": "VC无限橙果汁全场8折"
-      },
-      {
-        "type": 2,
-        "description": "单人精彩套餐"
-      },
-      {
-        "type": 3,
         "description": "该商家支持发票,请下单写好发票抬头"
       },
       {
-        "type": 4,
+        "type": 2,
         "description": "已加入“外卖保”计划,食品安全保障"
       }
     ],
-    "avatar": "http://static.galileo.xiaojukeji.com/static/tms/seller_avatar_256px.jpg",
+    "avatar": "https://fuss10.elemecdn.com/2/ae/6e50d2fa986f4b1609a4c6438c630jpeg.jpeg?imageMogr2/thumbnail/95x95/format/webp/quality/85",
     "pics": [
       "http://fuss10.elemecdn.com/8/71/c5cf5715740998d5040dda6e66abfjpeg.jpeg?imageView2/1/w/180/h/180",
       "http://fuss10.elemecdn.com/b/6c/75bd250e5ba69868f3b1178afbda3jpeg.jpeg?imageView2/1/w/180/h/180",
@@ -43,9 +35,9 @@
     ],
     "infos": [
       "该商家支持发票,请下单写好发票抬头",
-      "品类:其他菜系,包子粥店",
-      "北京市昌平区回龙观西大街龙观置业大厦底商B座102单元1340",
-      "营业时间:10:00-20:30"
+      "品类:江浙菜，简餐",
+      "南昌市经开区枫林西大街麦庐校区一食堂三楼",
+      "营业时间:10:15-21:10"
     ]
   },
   "goods": [
@@ -54,19 +46,19 @@
       "type": -1,
       "foods": [
         {
-          "name": "皮蛋瘦肉粥",
-          "price": 10,
+          "name": "米饭",
+          "price": 1,
           "oldPrice": "",
-          "description": "咸粥",
-          "sellCount": 229,
+          "description": "主食",
+          "sellCount": 1209,
           "rating": 100,
-          "info": "一碗皮蛋瘦肉粥，总是我到粥店时的不二之选。香浓软滑，饱腹暖心，皮蛋的Q弹与瘦肉的滑嫩伴着粥香溢于满口，让人喝这样的一碗粥也觉得心满意足",
+          "info": "香香软软哦",
           "ratings": [
             {
               "username": "3******c",
               "rateTime": 1469281964000,
               "rateType": 0,
-              "text": "很喜欢的粥",
+              "text": "很喜欢的他们家的米饭",
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             },
             {
@@ -84,14 +76,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/c/cd/c12745ed8a5171e13b427dbc39401jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/5/b1/5777b09209698b75279e07fdceab4jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/5/b1/5777b09209698b75279e07fdceab4jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "扁豆焖面",
-          "price": 14,
+          "name": "香辣土豆丝",
+          "price": 2.5,
           "oldPrice": "",
-          "description": "",
+          "description": "素菜",
           "sellCount": 188,
           "rating": 96,
           "ratings": [
@@ -117,13 +109,13 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "info": "",
-          "icon": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/c/6b/29e3d29b0db63d36f7c500bca31d8jpeg.jpeg?imageView2/1/w/750/h/750"
+          "info": "微辣",
+          "icon": "https://fuss10.elemecdn.com/6/de/87075a5940c3968e9a81b498904cdjpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/6/de/87075a5940c3968e9a81b498904cdjpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "葱花饼",
-          "price": 10,
+          "name": "[招牌]肉末茄子",
+          "price": 3.5,
           "oldPrice": "",
           "description": "",
           "sellCount": 124,
@@ -152,12 +144,12 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/f/28/a51e7b18751bcdf871648a23fd3b4jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/6/66/bf389526e8f63557d90dccd3ff1d6jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/6/66/bf389526e8f63557d90dccd3ff1d6jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "牛肉馅饼",
-          "price": 14,
+          "name": "[家常]火腿肠炒蛋",
+          "price": 4.5,
           "oldPrice": "",
           "description": "",
           "sellCount": 114,
@@ -186,12 +178,12 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/d/b9/bcab0e8ad97758e65ae5a62b2664ejpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/e/67/09a9fa2527e6d1188d5270ac2324bjpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/e/67/09a9fa2527e6d1188d5270ac2324bjpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "招牌猪肉白菜锅贴/10个",
-          "price": 17,
+          "name": "[家常]花椰菜",
+          "price": 3,
           "oldPrice": "",
           "description": "",
           "sellCount": 101,
@@ -220,14 +212,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/7/72/9a580c1462ca1e4d3c07e112bc035jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/2/2b/79846f7065ca2fa36585813bdd07ejpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/2/2b/79846f7065ca2fa36585813bdd07ejpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "南瓜粥",
-          "price": 9,
+          "name": "特色庐山石鸡",
+          "price": 6.5,
           "oldPrice": "",
-          "description": "甜粥",
+          "description": "",
           "sellCount": 91,
           "rating": 100,
           "ratings": [
@@ -253,14 +245,14 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/8/a6/453f65f16b1391942af11511b7a90jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/7/ae/efe165585df7594a3ec0874591ac1jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/7/ae/efe165585df7594a3ec0874591ac1jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "红豆薏米美肤粥",
-          "price": 12,
+          "name": "小小豌豆",
+          "price": 4,
           "oldPrice": "",
-          "description": "甜粥",
+          "description": "",
           "sellCount": 86,
           "rating": 100,
           "info": "",
@@ -287,12 +279,12 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/d/22/260bd78ee6ac6051136c5447fe307jpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/c/bc/54b74a5f92f61f7a5c35277198021jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/c/bc/54b74a5f92f61f7a5c35277198021jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "八宝酱菜",
-          "price": 4,
+          "name": "[家常菜]家乡小炒肉",
+          "price": 5.5,
           "oldPrice": "",
           "description": "",
           "sellCount": 84,
@@ -321,12 +313,12 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/0/89/9a3cd0ce699ce1990e45388c6dc7djpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/0/89/9a3cd0ce699ce1990e45388c6dc7djpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "红枣山药糙米粥",
-          "price": 10,
+          "name": "[家常菜]时蔬",
+          "price": 2,
           "oldPrice": "",
           "description": "",
           "sellCount": 81,
@@ -355,12 +347,12 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/9/b5/469d8854f9a3a03797933fd01398bjpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/8/f1/acf205e34dbd69f3afbbe411c5dacjpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/8/f1/acf205e34dbd69f3afbbe411c5dacjpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         },
         {
-          "name": "糊塌子",
-          "price": 10,
+          "name": "五香酱牛肉",
+          "price": 7,
           "oldPrice": "",
           "description": "",
           "sellCount": 80,
@@ -389,18 +381,18 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/0/05/097a2a59fd2a2292d08067e16380cjpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/f/c6/e18ba4b28bf73ea73dfe20d020e54jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/f/c6/e18ba4b28bf73ea73dfe20d020e54jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         }
       ]
     },
     {
-      "name": "单人精彩套餐",
+      "name": "单人套餐",
       "type": 2,
       "foods": [
         {
           "name": "红枣山药粥套餐",
-          "price": 29,
+          "price": 10,
           "oldPrice": 36,
           "description": "红枣山药糙米粥,素材包,爽口莴笋丝,四川泡菜或八宝酱菜,配菜可备注",
           "sellCount": 17,
@@ -421,12 +413,12 @@
       ]
     },
     {
-      "name": "冰爽饮品限时特惠",
+      "name": "美味汤",
       "type": 1,
       "foods": [
         {
-          "name": "VC无限橙果汁",
-          "price": 8,
+          "name": "萝卜排骨汤",
+          "price": 3.5,
           "oldPrice": 10,
           "description": "",
           "sellCount": 15,
@@ -448,18 +440,18 @@
               "avatar": "http://static.galileo.xiaojukeji.com/static/tms/default_header.png"
             }
           ],
-          "icon": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/114/h/114",
-          "image": "http://fuss10.elemecdn.com/e/c6/f348e811772016ae24e968238bcbfjpeg.jpeg?imageView2/1/w/750/h/750"
+          "icon": "https://fuss10.elemecdn.com/1/d4/becdfbc9cbc0e9554623476b68746jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85",
+          "image": "https://fuss10.elemecdn.com/1/d4/becdfbc9cbc0e9554623476b68746jpeg.jpeg?imageMogr2/thumbnail/100x100/format/webp/quality/85"
         }
       ]
     },
     {
-      "name": "精选热菜",
+      "name": "每日新品",
       "type": -1,
       "foods": [
         {
           "name": "娃娃菜炖豆腐",
-          "price": 17,
+          "price": 5,
           "oldPrice": "",
           "description": "",
           "sellCount": 43,
@@ -486,7 +478,7 @@
         },
         {
           "name": "手撕包菜",
-          "price": 16,
+          "price": 4,
           "oldPrice": "",
           "description": "",
           "sellCount": 29,
@@ -513,7 +505,7 @@
         },
         {
           "name": "香酥黄金鱼/3条",
-          "price": 11,
+          "price": 6,
           "oldPrice": "",
           "description": "",
           "sellCount": 15,
@@ -546,7 +538,7 @@
       "foods": [
         {
           "name": "八宝酱菜",
-          "price": 4,
+          "price": 3,
           "oldPrice": "",
           "description": "",
           "sellCount": 84,
@@ -580,7 +572,7 @@
         },
         {
           "name": "拍黄瓜",
-          "price": 9,
+          "price": 3,
           "oldPrice": "",
           "description": "",
           "sellCount": 28,
@@ -620,7 +612,7 @@
       "foods": [
         {
           "name": "红豆薏米粥套餐",
-          "price": 37,
+          "price": 8,
           "oldPrice": "",
           "description": "红豆薏米粥,三鲜干蒸烧卖,拍黄瓜",
           "sellCount": 3,
@@ -640,7 +632,7 @@
         },
         {
           "name": "皮蛋瘦肉粥套餐",
-          "price": 31,
+          "price": 7,
           "oldPrice": "",
           "description": "",
           "sellCount": 12,
@@ -666,7 +658,7 @@
       "foods": [
         {
           "name": "蜜瓜圣女萝莉杯",
-          "price": 6,
+          "price": 4,
           "oldPrice": "",
           "description": "",
           "sellCount": 1,
@@ -678,7 +670,7 @@
         },
         {
           "name": "加多宝",
-          "price": 6,
+          "price": 4,
           "oldPrice": "",
           "description": "",
           "sellCount": 7,
@@ -712,7 +704,7 @@
         },
         {
           "name": "VC无限橙果汁",
-          "price": 8,
+          "price": 5,
           "oldPrice": 10,
           "description": "",
           "sellCount": 15,
@@ -745,7 +737,7 @@
       "foods": [
         {
           "name": "扁豆焖面",
-          "price": 14,
+          "price": 5,
           "oldPrice": "",
           "description": "",
           "sellCount": 188,
@@ -779,7 +771,7 @@
         },
         {
           "name": "葱花饼",
-          "price": 10,
+          "price": 2,
           "oldPrice": "",
           "description": "",
           "sellCount": 124,
@@ -813,7 +805,7 @@
         },
         {
           "name": "牛肉馅饼",
-          "price": 14,
+          "price": 2.5,
           "oldPrice": "",
           "description": "",
           "sellCount": 114,
@@ -847,7 +839,7 @@
         },
         {
           "name": "招牌猪肉白菜锅贴/10个",
-          "price": 17,
+          "price": 10,
           "oldPrice": "",
           "description": "",
           "sellCount": 101,
@@ -881,7 +873,7 @@
         },
         {
           "name": "糊塌子",
-          "price": 10,
+          "price": 4,
           "oldPrice": "",
           "description": "",
           "sellCount": 80,
@@ -921,7 +913,7 @@
       "foods": [
         {
           "name": "皮蛋瘦肉粥",
-          "price": 10,
+          "price": 5,
           "oldPrice": "",
           "description": "咸粥",
           "sellCount": 229,
@@ -954,7 +946,7 @@
         },
         {
           "name": "南瓜粥",
-          "price": 9,
+          "price": 5,
           "oldPrice": "",
           "description": "甜粥",
           "sellCount": 91,
@@ -988,7 +980,7 @@
         },
         {
           "name": "红豆薏米美肤粥",
-          "price": 12,
+          "price": 7,
           "oldPrice": "",
           "description": "甜粥",
           "sellCount": 86,
@@ -1022,7 +1014,7 @@
         },
         {
           "name": "红枣山药糙米粥",
-          "price": 10,
+          "price": 7,
           "oldPrice": "",
           "description": "",
           "sellCount": 81,
@@ -1056,7 +1048,7 @@
         },
         {
           "name": "鲜蔬菌菇粥",
-          "price": 11,
+          "price": 5,
           "oldPrice": "",
           "description": "咸粥",
           "sellCount": 56,
@@ -1089,7 +1081,7 @@
         },
         {
           "name": "田园蔬菜粥",
-          "price": 10,
+          "price": 5,
           "oldPrice": "",
           "description": "咸粥",
           "sellCount": 33,
