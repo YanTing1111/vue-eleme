@@ -12,7 +12,7 @@ const portfinder = require('portfinder')
 
 var express = require('express')
 var app = express() //请求server
-var appData = require('../data.json');
+var appData = require('../src/common/json/data.json');
 var seller = appData.seller;
 var goods = appData.goods;
 var ratings = appData.ratings;
